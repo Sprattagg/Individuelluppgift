@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans Condensed', sans-serif;
+  
+  }
+  .Output{
+      display:flex;
+      justify-content: center;
+      margin:auto;
+  
+  }
+  .Output_{
+      
+      padding:10px;
+  }
+  
+  .total{
+      display:flex;
+      justify-content: center;
+      padding: 20px;
+     
+  }
+  .input{
+      width:400px;
+      display:flex;
+      justify-content: center;
+      background-color: rgb(42, 47, 77);
+      border-radius: 20px;
+     margin:auto;
+      padding: 20px;
+  }
+  
+  .listor{
+      display: flex;
+      justify-content: center;
+  
+  }
+  .listor_{
+      padding:10px;
+  }
+  
+  li{
+      list-style:none;
+  }
